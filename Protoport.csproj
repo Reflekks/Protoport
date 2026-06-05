@@ -9,7 +9,14 @@
     <AssemblyName>Protoport</AssemblyName>
     <RootNamespace>Protoport</RootNamespace>
     <EnableWindowsTargeting>true</EnableWindowsTargeting>
+    <ApplicationIcon>tray.ico</ApplicationIcon>
     <!-- To publish: dotnet publish -c Release -r win-x64 /p:PublishSingleFile=true /p:SelfContained=true -->
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="tray.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
 
 </Project>
