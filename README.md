@@ -12,16 +12,16 @@
 
 ---
 
-ProtonVPN periodically rotates its forwarded port. When that happens, qBittorrent stops receiving incoming connections and your speeds tank. Protoport watches the ProtonVPN log in the background, detects the port change the moment it happens, updates `qBittorrent.ini`, and restarts qBittorrent — all automatically, with no credentials required.
+ProtonVPN periodically rotates its forwarded port. When that happens, qBittorrent stops receiving incoming connections and your speeds tank or you lose connection entirely. Protoport watches the ProtonVPN log in the background, detects the port change the moment it happens, updates `qBittorrent.ini`, and restarts qBittorrent — all automatically, with no credentials required.
 
 ## Features
 
-- 🔍 **Instant detection** — tails the ProtonVPN log file in real time
-- ✏️ **Direct ini editing** — no Web UI, no passwords, no API keys
-- 🔄 **Clean restart** — gracefully closes qBittorrent, writes the new port, then relaunches
-- 🔔 **Tray notifications** — Windows balloon notification on every port change
-- 🪟 **Status window** — shows current port, last change time, and a live activity log
-- 🤫 **Silent background** — lives in the system tray, stays out of your way
+- **Instant Detection** — tails the ProtonVPN log file in real time
+- **Direct ini Editing** — no Web UI, no passwords, no API keys
+- **Clean Restart** — gracefully closes qBittorrent, writes the new port, then relaunches
+- **Tray Notifications** — Windows balloon notification on every port change
+- **Status Window** — shows current port, last change time, and a live activity log
+- **Silent Background** — lives in the system tray, stays out of your way
 
 ## Requirements
 
