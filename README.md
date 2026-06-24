@@ -58,4 +58,4 @@ Requires the [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0
 
 - Science [Atom] by Gregor Cresnar from [Noun Project](https://thenounproject.com/browse/icons/term/science/) (CC BY 3.0)
 
-- Created in Apple's Icon Designer
+- Created in Affinity Photo
