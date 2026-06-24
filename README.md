@@ -50,6 +50,7 @@ Requires the [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0
 
 - Started as my own idea as I wanted an app that didn't require qBit Web UI creds
 - Claude (free version) walked me through the entire coding process
+- Further development will be done within a locally-hosted LLM
 
 ### Icon
 
