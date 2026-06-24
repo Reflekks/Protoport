@@ -44,4 +44,17 @@ ProtonVPN periodically rotates its forwarded port. When that happens, qBittorren
 
 Requires the [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0).
 
-```bash
+## Attribution
+
+### The App Itself
+
+- Started as my own idea as I wanted an app that didn't require qBit Web UI creds
+- Claude (free version) walked me through the entire coding process
+
+### Icon
+
+- Shield by Andi wiyanto from [Noun Project](https://thenounproject.com/browse/icons/term/shield/) (CC BY 3.0)
+
+- Science [Atom] by Gregor Cresnar from [Noun Project](https://thenounproject.com/browse/icons/term/science/) (CC BY 3.0)
+
+- Created in Apple's Icon Designer
